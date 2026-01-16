@@ -1,0 +1,14 @@
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.exe
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.deps.json
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.runtimeconfig.json
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.dll
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\bin\Release\net10.0\DotNetDebugging.pdb
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.dll
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\refint\DotNetDebugging.dll
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.pdb
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\CSE325\CSE325\PersonalAssignments\DotNetDebugging\obj\Release\net10.0\ref\DotNetDebugging.dll
